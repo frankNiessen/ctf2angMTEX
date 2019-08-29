@@ -1,0 +1,15 @@
+# Phase 2
+# MaterialName  	Ferrite	
+# Formula     	
+# Info 		
+# Symmetry              43
+# LatticeConstants      2.866 2.866 2.866  90.000  90.000  90.000
+# NumberFamilies        0
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# ElasticConstants 	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+# Categories1 1 1 1 1 
+#
