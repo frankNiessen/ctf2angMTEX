@@ -1,4 +1,4 @@
-# ctf2ang
+# ctf2angMTEX
 Conversion of EBSD file format **ctf** to **ang**.
 
 **I recommend using the recently developed function "export_ang.m" instead: [export_ang.m](https://github.com/mtex-toolbox/mtex/blob/develop/EBSDAnalysis/%40EBSD/export_ang.m)**
